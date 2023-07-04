@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Apple",
+    "description": "Sweet Fruit",
+    "price": 300,
+    "thumbnail": "apple.jpg",
+    "code": 123,
+    "stock": 24
+  },
+  {
+    "id": 2,
+    "title": "Pear",
+    "description": "Sweet Fruit",
+    "price": 250,
+    "thumbnail": "pear.jpg",
+    "code": 1234,
+    "stock": 12
+  },
+  {
+    "id": 3,
+    "title": "Banana",
+    "description": "Sweet Fruit",
+    "price": 150,
+    "thumbnail": "banana.jpg",
+    "code": 12345,
+    "stock": 12
+  }
+]
